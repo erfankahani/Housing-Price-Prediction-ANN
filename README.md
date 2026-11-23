@@ -68,7 +68,7 @@ Both models use **MSE loss** and the **Adam** optimizer (learning rate 0.001).
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook Ai_8_2nd.ipynb
+jupyter notebook notebook.ipynb
 ```
 
 Run all cells from top to bottom. The notebook reads `housing.csv` from the same folder. Results can vary slightly between runs, because the network weights are initialized randomly.
