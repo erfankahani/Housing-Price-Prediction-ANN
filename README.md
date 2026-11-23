@@ -58,7 +58,7 @@ Both models use **MSE loss** and the **Adam** optimizer (learning rate 0.001).
 ## Repository Structure
 
 ```
-├── Ai_8_2nd.ipynb      # Full notebook: preprocessing, simple NN, deep NN, comparison
+├── notebook.ipynb      # Full notebook: preprocessing, simple NN, deep NN, comparison
 ├── housing.csv         # California Housing dataset
 ├── requirements.txt
 └── README.md
